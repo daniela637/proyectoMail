@@ -15,3 +15,7 @@ exista el mail.
 * mysql connector java 5.1.23
 * activacion 1.6.1
 * javax mail 1.6.1
+
+Es necesario que modifiques la conexion para que funcione, uses tu puerto, nombre de la base de datos, usuario y clave si tienes
+
+![modifConnex](https://user-images.githubusercontent.com/78282623/187098480-1ea94a0f-d5c5-472e-9c18-ad95908e5f4d.PNG)
