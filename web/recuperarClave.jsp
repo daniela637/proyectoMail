@@ -18,11 +18,14 @@
             <h1>Recuperar la contraseña</h1>
             <hr>
             <div class="row">
-                <div class="col-12 my-5 d-flex ">
-                    <form method="POST" action="RecuperoClave" >
-                         <label>Ingrese su mail</label>
-                         <input type="email" name="mailRecupero">
-                          <input class="btn btn-danger btn-block" type="submit" name="accionRecupero" value="Enviar" >
+                <div class="col-12 my-5 d-flex  justify-content-center ">
+                    <form class="col-8  mt-5 d-flex flex-column align-items-center" method="POST" action="RecuperoClave" >
+                        <div class="col-10 text-center ">
+                          <label class="m-3 fs-5 fw-bold mb-4">Ingrese su su correo electronico</label>
+                         <input type="email" class="form-control border border-primary" name="mailRecupero" placeholder="ejemplo@gmail.com">
+                        </div>
+                         
+                          <input class="btn btn-danger btn-block mt-5" type="submit" name="accionRecupero" value="Enviar" >
                     </form>                  
                 </div>
             </div>
