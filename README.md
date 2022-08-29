@@ -4,6 +4,7 @@ exista el mail.
 
 ![recupPass](https://user-images.githubusercontent.com/78282623/187098288-41f7da3f-6473-45d5-8484-523c35238ed5.PNG)
 
+¡¡¡es importante que al importar un proyecto de java web el apache tomcat te pida que crees un usuario y clave para este servidor en caso que no tengas
 
 ## Herramientas necesarias 
 
